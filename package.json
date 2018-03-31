@@ -39,7 +39,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/finitecoin/bitcore-payment-protocol-finite.git"
+    "url": "https://github.com/zy0n/bitcore-payment-protocol-finite.git"
   },
   "browser": "lib/browser.js",
   "dependencies": {
