@@ -44,12 +44,12 @@
   "browser": "lib/browser.js",
   "dependencies": {
     "asn1.js": "=4.5.2",
-    "bitcore-lib-finite": "finitecoin/bitcore-lib-finite",
+    "bitcore-lib-finite": "zy0n/bitcore-lib-finite",
     "jsrsasign": "=5.0.10",
     "protobufjs": "=5.0.1"
   },
   "devDependencies": {
-    "bitcore-build-finite": "finitecoin/bitcore-build-finite",
+    "bitcore-build-finite": "zy0n/bitcore-build-finite",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
